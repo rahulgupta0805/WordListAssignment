@@ -1,0 +1,14 @@
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.AssemblyInfoInputs.cache
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.AssemblyInfo.cs
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.csproj.CoreCompileInputs.cache
+C:\Users\sonal\source\repos\Wordlist\bin\Debug\net8.0\Wordlist.exe
+C:\Users\sonal\source\repos\Wordlist\bin\Debug\net8.0\Wordlist.deps.json
+C:\Users\sonal\source\repos\Wordlist\bin\Debug\net8.0\Wordlist.runtimeconfig.json
+C:\Users\sonal\source\repos\Wordlist\bin\Debug\net8.0\Wordlist.dll
+C:\Users\sonal\source\repos\Wordlist\bin\Debug\net8.0\Wordlist.pdb
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.dll
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\refint\Wordlist.dll
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.pdb
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\Wordlist.genruntimeconfig.cache
+C:\Users\sonal\source\repos\Wordlist\obj\Debug\net8.0\ref\Wordlist.dll
